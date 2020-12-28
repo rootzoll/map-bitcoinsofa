@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/software.json#start_402-payment-required}\n"
+                 "value":"{<bitcoin-sofa>/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,

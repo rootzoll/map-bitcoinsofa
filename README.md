@@ -1,3 +1,7 @@
 # map-bitcoinsofa
-Testlink:
-https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/rootzoll/map-bitcoinsofa/main/main.json
+
+For `master` branch use:
+https://play.workadventu.re/@/fulmo/402/402-prod
+
+For `test` branch use:
+https://play.workadventu.re/@/fulmo/402/402-test

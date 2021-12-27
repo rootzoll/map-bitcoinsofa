@@ -98,6 +98,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/jitsi.rc3.world\/402"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,

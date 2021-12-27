@@ -119,12 +119,6 @@
  "nextlayerid":10,
  "nextobjectid":3,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"exitUrl",
-         "type":"string",
-         "value":"{<lobby>\/software.json#start_402-payment-required}\n"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
  "tileheight":32,

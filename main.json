@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/jitsi.rc3.world\/bitcoin-sofa"
+                 "value":"https:\/\/jitsi.rc3.world\/402"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -436,16 +436,16 @@
          "margin":0,
          "name":"worldExit",
          "properties":[
-              {
-               "name":"source",
-               "type":"string",
-               "value":"https:\/\/tiles.rc3.world\/rc3-2021\/worldExit.png"
-              },
-              {
-               "name":"tilesetCopyright",
-               "type":"string",
-               "value":"freetouse CC0"
-              }],
+                {
+                 "name":"source",
+                 "type":"string",
+                 "value":"https:\/\/tiles.rc3.world\/rc3-2021\/worldExit.png"
+                }, 
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"freetouse CC0"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,

@@ -133,11 +133,6 @@
          "name":"rpg_maker_vx_rtp_tileset_by_telles0808_d2mslkf",
          "properties":[
                 {
-                 "name":"source",
-                 "type":"string",
-                 "value":"https:\/\/www.deviantart.com\/telles0808\/art\/RPG-Maker-VX-RTP-Tileset-159218223"
-                }, 
-                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"freetouse non-commercial"
@@ -437,11 +432,6 @@
          "name":"worldExit",
          "properties":[
                 {
-                 "name":"source",
-                 "type":"string",
-                 "value":"https:\/\/tiles.rc3.world\/rc3-2021\/worldExit.png"
-                }, 
-                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"freetouse CC0"
@@ -460,11 +450,6 @@
          "margin":0,
          "name":"bitcoinlogo",
          "properties":[
-                {
-                 "name":"source",
-                 "type":"string",
-                 "value":"https:\/\/pixabay.com\/ko\/illustrations\/%ea%b0%80%ec%a3%bd-%ec%86%8c%ed%8c%8c-%ec%b9%a8%ec%83%81-%ea%b0%80%ea%b5%ac-3928723\/"
-                }, 
                 {
                  "name":"tilesetCopyright",
                  "type":"string",

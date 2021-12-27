@@ -103,6 +103,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE or touch here to open our RC3 Jitsi room (accept follow link)"
                 }],
          "type":"tilelayer",
          "visible":true,

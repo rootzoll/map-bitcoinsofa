@@ -435,19 +435,20 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+              {
+               "name":"source",
+               "type":"string",
+               "value":"https:\/\/tiles.rc3.world\/rc3-2021\/worldExit.png"
+              },
+              {
+               "name":"tilesetCopyright",
+               "type":"string",
+               "value":"freetouse CC0"
+              }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"freetouse CC0"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
